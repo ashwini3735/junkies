@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-03T10:15:32 IST" name="Default suite" finished-at="2024-01-03T10:15:32 IST" duration-ms="167">
+  <suite started-at="2024-01-03T11:14:09 IST" name="Default suite" finished-at="2024-01-03T11:14:09 IST" duration-ms="126">
     <groups>
     </groups>
-    <test started-at="2024-01-03T10:15:32 IST" name="Default test" finished-at="2024-01-03T10:15:32 IST" duration-ms="167">
-      <class name="junkines.classA_test">
-        <test-method signature="test1()[pri:0, instance:junkines.classA_test@1ffaf86]" started-at="2024-01-03T10:15:32 IST" name="test1" finished-at="2024-01-03T10:15:32 IST" duration-ms="22" status="PASS">
+    <test started-at="2024-01-03T11:14:09 IST" name="Default test" finished-at="2024-01-03T11:14:09 IST" duration-ms="126">
+      <class name="junkines.A">
+        <test-method signature="test1()[pri:0, instance:junkines.A@1ffaf86]" started-at="2024-01-03T11:14:09 IST" name="test1" finished-at="2024-01-03T11:14:09 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:junkines.classA_test@1ffaf86]" started-at="2024-01-03T10:15:32 IST" name="test2" finished-at="2024-01-03T10:15:32 IST" duration-ms="3" status="PASS">
+        <test-method signature="test2()[pri:0, instance:junkines.A@1ffaf86]" started-at="2024-01-03T11:14:09 IST" name="test2" finished-at="2024-01-03T11:14:09 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-      </class> <!-- junkines.classA_test -->
+      </class> <!-- junkines.A -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

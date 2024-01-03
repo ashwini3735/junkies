@@ -11,10 +11,10 @@ import static io.restassured.RestAssured.*;
 
 import java.util.HashMap;
 
-public class Crudopration {
+//public class Crudopration {
 	
-	public void post()
-	{
+	//public void post()
+	/*{
 		JSONObject json = new JSONObject();
 		json.put("cratedby", "ashu");
 		json.put("projectName", "abcd");
@@ -29,7 +29,7 @@ public class Crudopration {
 		
 		
 		
-	}
+	
 	public void Hashmap()
 	{
 		HashMap map = new HashMap();
@@ -59,3 +59,4 @@ public class Crudopration {
 	}
 
 }
+*/

@@ -2,7 +2,7 @@ package junkines;
 
 import org.testng.annotations.Test;
 
-public class classA_test {
+public class A {
 	
 	@Test
 	public void test1()

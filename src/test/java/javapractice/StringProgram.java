@@ -113,8 +113,8 @@ public class StringProgram {
 			
 		}
 		System.out.print(ch);
-		Select s1 = new Select(e1);
-		s1.getOptions()
+		//Select s1 = new Select(e1);
+		//s1.getOptions()
 	}
 	
 	
